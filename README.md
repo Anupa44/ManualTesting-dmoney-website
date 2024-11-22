@@ -1,4 +1,5 @@
-# Domoney Manual Testing Project
+# Dmoney Manual Testing Project
+
 
 ## Overview
 This repository contains the deliverables and documentation for the manual testing of the Dmoney website. The project focuses on ensuring that the website meets quality standards through comprehensive test cases, detailed bug reports, and clearly defined acceptance criteria.
@@ -38,9 +39,16 @@ The testing process is designed as follows:
 4. **Verification**
    - Retesting is conducted after bug fixes to ensure compliance with the acceptance criteria.
 
+## How to Use
+
+1. **Clone the Repository**  
+   Use the following command to clone the repository to your local machine:  
+   ```bash
+   https://github.com/Anupa44/ManualTesting-dmoney-website.git
+
 ## Directory Structure
 ```plaintext
-DomoneyTestingProject/
+DmoneyTestingProject/
 ├── TestCases/
 │   ├── TestCases.xlsx
 │   
@@ -51,10 +59,4 @@ DomoneyTestingProject/
 │   └── AcceptanceCriteria_Domoney.pdf
 ├── README.md
 
-## How to Use
-
-1. **Clone the Repository**  
-   Use the following command to clone the repository to your local machine:  
-   ```bash
-   https://github.com/Anupa44/ManualTesting-dmoney-website.git
 
