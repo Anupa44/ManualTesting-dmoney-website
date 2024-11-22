@@ -51,10 +51,10 @@ DomoneyTestingProject/
 │   └── AcceptanceCriteria_Domoney.pdf
 ├── README.md
 
-## How to Use
+## <b>How to Use</b>
 
 1. **Clone the Repository**  
    Use the following command to clone the repository to your local machine:  
    ```bash
-   git clone https://github.com/yourusername/DomoneyTestingProject.git
+   https://github.com/Anupa44/ManualTesting-dmoney-website.git
 
