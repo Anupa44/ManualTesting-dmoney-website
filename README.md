@@ -51,7 +51,7 @@ DomoneyTestingProject/
 │   └── AcceptanceCriteria_Domoney.pdf
 ├── README.md
 
-## <b>How to Use</b>
+## How to Use
 
 1. **Clone the Repository**  
    Use the following command to clone the repository to your local machine:  
